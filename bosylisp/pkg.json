@@ -1,0 +1,6 @@
+{
+    "title": "bosylisp",
+    "desc": "A interpreter",
+    "version": "0.0.1",
+    "entry": "install.sh"
+}
